@@ -1,1 +1,1 @@
-คำคำคำ
+#include<stdio.h>
